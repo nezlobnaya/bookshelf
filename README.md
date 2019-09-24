@@ -24,11 +24,11 @@ following:
 - [x] Watch my talk
       [Why React Hooks](https://www.youtube.com/watch?v=zWsZcBiwgVE&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
       (35 minutes)
-- [ ] Go through my
+- [x] Go through my
       [Learn React Hooks Workshop](https://kentcdodds.com/workshops/hooks), or
       have the equivalent basic experience of using hooks. You should be
       experienced with `useState`, `useEffect`, and `useRef`.
-- [ ] Go through my
+- [x] Go through my
       [Advanced React Hooks](https://kentcdodds.com/workshops/advanced-react-hooks),
       or have the equivalent basic experience of using advanced hooks. You
       should be experienced with `useContext`, `useReducer`, `useMemo`, and
