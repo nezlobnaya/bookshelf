@@ -15,13 +15,13 @@ source material for
 In order for us to maximize our efforts during the workshop, please do the
 following:
 
-- [ ] Setup the project (follow the setup instructions below) (~5 minutes)
-- [ ] Install and setup [Zoom](https://zoom.us) on the computer you will be
+- [x] Setup the project (follow the setup instructions below) (~5 minutes)
+- [x] Install and setup [Zoom](https://zoom.us) on the computer you will be
       using (~5 minutes)
-- [ ] Watch [The Beginner's Guide to React](https://kcd.im/beginner-react)
+- [x] Watch [The Beginner's Guide to React](https://kcd.im/beginner-react)
       (available free on Egghead.io), or have the equivalent experience (77
       minutes)
-- [ ] Watch my talk
+- [x] Watch my talk
       [Why React Hooks](https://www.youtube.com/watch?v=zWsZcBiwgVE&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
       (35 minutes)
 - [ ] Go through my
