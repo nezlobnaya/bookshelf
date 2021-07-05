@@ -15,20 +15,20 @@ source material for
 In order for us to maximize our efforts during the workshop, please do the
 following:
 
-- [ ] Setup the project (follow the setup instructions below) (~5 minutes)
-- [ ] Install and setup [Zoom](https://zoom.us) on the computer you will be
+- [x] Setup the project (follow the setup instructions below) (~5 minutes)
+- [x] Install and setup [Zoom](https://zoom.us) on the computer you will be
       using (~5 minutes)
-- [ ] Watch [The Beginner's Guide to React](https://kcd.im/beginner-react)
+- [x] Watch [The Beginner's Guide to React](https://kcd.im/beginner-react)
       (available free on Egghead.io), or have the equivalent experience (77
       minutes)
-- [ ] Watch my talk
+- [x] Watch my talk
       [Why React Hooks](https://www.youtube.com/watch?v=zWsZcBiwgVE&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
       (35 minutes)
-- [ ] Go through my
+- [x] Go through my
       [Learn React Hooks Workshop](https://kentcdodds.com/workshops/hooks), or
       have the equivalent basic experience of using hooks. You should be
       experienced with `useState`, `useEffect`, and `useRef`.
-- [ ] Go through my
+- [x] Go through my
       [Advanced React Hooks](https://kentcdodds.com/workshops/advanced-react-hooks),
       or have the equivalent basic experience of using advanced hooks. You
       should be experienced with `useContext`, `useReducer`, `useMemo`, and
@@ -130,7 +130,7 @@ Read through [`OUTLINE.md`](./OUTLINE.md)
 Each exercise has comments in it to help you get through the exercise. These fun
 emoji characters are here to help you.
 
-- **Kody the Koala Bear** 🐨 will tell you when there's something specific you
+- **Kody the Koala Bear** 🐨 will tell you when there's something specific you!
   should do
 - **Marty the Money Bag** 💰 will give you specific tips (and sometimes code)
   along the way
